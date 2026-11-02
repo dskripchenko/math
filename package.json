@@ -1,6 +1,6 @@
 {
   "name": "@dskripchenko/math",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "TeX math to MathML with zero runtime dependencies: the commonly written subset of LaTeX math — scripts, fractions, roots, Greek and symbols, big operators, functions, stretching fences, accents, letter styles, text, colours, matrices, cases and aligned equations — drawn by the browser’s own MathML",
   "keywords": [
     "math",
